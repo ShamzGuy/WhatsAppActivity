@@ -1,5 +1,5 @@
 # WhatsAppActivity
-# Fun way to visualize who is active in your WhatsApp groups!
+# Fun way to find out who is active in your WhatsApp groups by plotting  the total number  of words in their messages vs time! (forwards not counted)
 
 ![alt-text](https://github.com/ShamzGuy/WhatsAppActivity/blob/main/demo/demo.gif)
 
