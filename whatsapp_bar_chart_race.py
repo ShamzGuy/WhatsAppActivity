@@ -1,7 +1,6 @@
 import pandas as pd
 from collections import defaultdict
-import bar_chart_race as bcr
-
+import bar_chart_race as bcr # version used in this code is bar-chart-race 0.1.0
 
 def create_race_vid(fname, vidname):
 
