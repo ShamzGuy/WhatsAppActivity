@@ -1,5 +1,5 @@
 # WhatsAppActivity
-# Script to create bar chart race for WhatsApp group chats
+# Fun way to visualize who is active in your WhatsApp groups!
 
 ![alt-text](https://github.com/ShamzGuy/WhatsAppActivity/blob/main/demo/demo.gif)
 
